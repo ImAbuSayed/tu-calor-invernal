@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu calor invernal
+
+This log tracks the cryptographic history and versioning for the song **Tu calor invernal** (tu-calor-invernal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:49:21.406694 | `v1` | `032ee4cb1991385a8723950e2c98696d100a036a50efdcc5c8c8923070f6f16f` | `8355411e541dfc24824e2e4ab63c9e4236c08b34694071a2b64757ad71a335e7` | `2026-06-22_tu-calor-invernal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

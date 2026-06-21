@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-invernal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
+| **Get License** | [Get a Licensing Quote for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `032ee4cb1991385a8723950e2c98696d100a036a50efdcc5c8c8923070f6f16f` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

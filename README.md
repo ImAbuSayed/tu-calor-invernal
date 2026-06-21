@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-invernal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
+| **Get License** | [Official Music Licensing for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu calor invernal me tiene quemando la calle
+> Una mirada tuya y no hay nadie que me pare
+> Nos perdemos en la noche sin dar un detalle
+> Ese fuego que tú tienes no hay hielo que lo apague
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

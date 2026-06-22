@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Tu calor
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:49:21.406694 | `v1` | `032ee4cb1991385a8723950e2c98696d100a036a50efdcc5c8c8923070f6f16f` | `8355411e541dfc24824e2e4ab63c9e4236c08b34694071a2b64757ad71a335e7` | `2026-06-22_tu-calor-invernal-v1.txt` |
+| 2026-06-22T06:14:57.295084 | `v2` | `f60d4c3b9d79e9111447f6c6414da45f6985fb93bde7ddde27b712edbcf6a18d` | `463c085b8162eaa00aef11414a9c9cd6a2d44a35bbcb06efbb376820f15fdcfc` | `2026-06-22_tu-calor-invernal-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

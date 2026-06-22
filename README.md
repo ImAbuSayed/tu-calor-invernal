@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu calor invernal |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-invernal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
+| **Get License** | [Commercial Licensing for Tu calor invernal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-invernal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tu calor invernal me tiene quemando la calle
-> Una mirada tuya y no hay nadie que me pare
-> Nos perdemos en la noche sin dar un detalle
-> Ese fuego que tú tienes no hay hielo que lo apague
+> Tu calor invernal me enciende la piel
+> Como fuego en la nieve, no puedo fingir
+> Tus labios son veneno que quiero beber
+> Esta noche contigo me voy a perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
